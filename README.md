@@ -1,7 +1,6 @@
 # Heart_Disease
-Logistic Regression and Confussion Matrix
-#------------
-Logistic Regression 
+## Logistic Regression and Confussion Matrix
+
 Logistic regression is a statistical method used for binary classification, which means it is employed when the outcome variable (the one you want to predict) has two possible classes or labels, typically represented as 0 and 1
  Confussion Matrix
 A confusion matrix is a table that is used to evaluate the performance of a classification algorithm. It provides a detailed breakdown of the model's predictions and how they compare to the actual true values. A confusion matrix is particularly useful in binary classification problems, where there are two classes or categories, such as "positive" and "negative."
