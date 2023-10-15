@@ -1,5 +1,6 @@
 # Heart_Disease
 Logistic Regression and Confussion Matrix
+#------------
 Logistic Regression 
 Logistic regression is a statistical method used for binary classification, which means it is employed when the outcome variable (the one you want to predict) has two possible classes or labels, typically represented as 0 and 1
  Confussion Matrix
